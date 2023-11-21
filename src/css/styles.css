@@ -1,0 +1,32 @@
+/* Body and Terminal Styles */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #000;
+  }
+
+  .typed{
+    color: #00FF00;
+  }
+
+  .terminal{
+    color: #d5d5d5;
+  }
+
+
+  .terminaler{
+    color: #1267cb;
+    font-style: bold;
+  }
+
+input[type="text"] {
+  background: none;
+  border: none;
+  outline: none;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+}
+.typed-text{
+  margin-left: 30px;
+}
+
